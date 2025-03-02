@@ -6,6 +6,8 @@
 * {
     padding: none;
     margin: none;
+    text-decoration: none;
+    list-style: none;
 }
 
 body {
