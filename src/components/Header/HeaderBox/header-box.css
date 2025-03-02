@@ -1,0 +1,28 @@
+.hBox-main {
+    color: rgb(255, 228, 75);
+    display: flex !important;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid rgb(112, 112, 112);
+    border-radius: 5px;
+    width: 150px;
+    height: 80px;
+    padding: 30px 20px;
+    transition: all 0.2s;
+}
+
+.hBox-main:hover{
+    border: 1px solid rgb(255, 228, 75);
+}
+
+.hBox-main svg{
+    width: 32px;
+    height: 32px;
+}
+
+.hBox-main span{
+    color: white !important;
+    font-size: 20px !important;
+    text-align: center;
+}
