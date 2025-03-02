@@ -1,0 +1,17 @@
+.slider-main{
+    margin: 20px 0 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+
+}
+
+.slider-main img{
+    height: 50px;
+    filter: grayscale(100%);
+    transition: all 0.3s;
+}
+
+.slider-main img:hover{
+    filter: grayscale(0%);
+}
