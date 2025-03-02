@@ -1,57 +1,26 @@
 import './company-info.css'
+import AboutImg from '../../images/about.jpg'
 
 function CompanyInfo(){
-    return <div>
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae eaque, consequatur quibusdam iste tempore possimus reiciendis quas, consectetur ipsum blanditiis quidem a optio, dolore accusamus voluptatum laudantium quaerat animi adipisci?
-    Molestias, amet quod at, deleniti minima sequi itaque blanditiis est libero facere fugiat exercitationem hic omnis neque odio ut laudantium error! Nesciunt porro eos quas repellat numquam nihil nobis aliquam.
-    Placeat explicabo excepturi nihil fugit quisquam laboriosam voluptate! Rem modi quis molestiae quos provident expedita laudantium neque, libero corporis amet perspiciatis accusamus porro minima ab sint numquam excepturi minus obcaecati.
-    Tempore dolorem labore cupiditate! Quibusdam recusandae cumque iure tempora reprehenderit ex. Officiis nulla facilis odit porro, optio ut sint cum cupiditate blanditiis nobis soluta, reiciendis hic quas ratione rerum animi.
-    Voluptatem, nisi. Eum odio omnis beatae iusto cum sapiente quasi culpa delectus, amet qui ex repellendus dolorum eligendi molestiae. Nesciunt quam amet odit repudiandae quisquam nemo culpa quaerat ea ipsam.
-    Saepe consequuntur officia quo laboriosam culpa? Consequuntur assumenda voluptatem illo eveniet corrupti vel qui quod, nobis accusamus. Id accusamus reiciendis dolores, itaque in, expedita dolor non, recusandae officiis perferendis blanditiis!
-    Reiciendis harum quaerat minus error veniam, molestiae ab quisquam, unde vero magnam dolorem quas excepturi tempora eum quidem nemo repellat adipisci nostrum non at. Itaque illo unde sunt quia eos.
-    Praesentium sint nihil dolorum tenetur eius ducimus natus officia debitis. Itaque, impedit hic voluptatem velit dicta harum illo ea perspiciatis quia dignissimos aliquid maxime enim accusantium minima quasi aut laborum?
-    Quas iste amet, ipsam distinctio corrupti facilis commodi? Distinctio ipsam quod excepturi, molestias saepe repellendus sequi. Ipsa nihil architecto maxime repudiandae mollitia, impedit iure dicta iste cum velit vitae. Labore.
-    Porro optio perspiciatis odit, corporis ipsam ipsa quae laboriosam neque tempora minima omnis iure, eaque iusto, odio praesentium quidem ratione minus sit modi soluta similique facilis officiis voluptas iste! Recusandae?
-    Eos ratione numquam distinctio dolorem doloribus, odio aliquid omnis? Autem et qui porro vero illo suscipit omnis ut atque sapiente? Impedit labore iure maiores consequuntur nulla. Deserunt aliquam incidunt corporis!
-    Aperiam, similique est totam distinctio quibusdam accusamus placeat ab sint quia velit maiores quo unde doloribus repellat libero cum, magnam nam consequuntur veniam iure quisquam, voluptatem magni praesentium tempore! Harum.
-    Earum facilis consequatur modi eos reiciendis delectus nemo ipsam rerum. Debitis beatae ab libero, esse quae non sint, harum impedit, accusantium alias repellat corrupti nulla enim et doloremque eaque quasi?
-    Recusandae exercitationem aliquid perferendis ratione assumenda, ad dolorum quidem nemo distinctio eaque dignissimos et accusantium impedit maxime labore laudantium! Quae fugiat neque doloribus assumenda illum saepe quia quas officiis maxime?
-    Velit, explicabo repellendus consectetur distinctio blanditiis ex voluptas iste quas voluptatem quis cupiditate aperiam culpa, nisi corrupti et. Illo nihil cum fugit perspiciatis. Nihil deserunt officia, corrupti molestias expedita nisi.
-    Quae distinctio nemo, mollitia fuga optio quia hic vitae iure corrupti voluptatem, delectus veniam eaque. Et aspernatur hic dolores iusto vitae voluptate incidunt reiciendis alias, aliquid, ea, odio sit obcaecati?
-    Odit vero ullam maxime commodi nostrum maiores, repellendus deserunt incidunt nulla culpa hic. Nesciunt suscipit voluptatum porro sit nam quos at esse omnis laudantium, commodi perspiciatis tenetur maxime voluptatem ad.
-    Laborum inventore odio ratione illum consequuntur perferendis mollitia doloremque architecto corporis suscipit temporibus, quis, laudantium eos explicabo aspernatur eius dignissimos est. Tempore, molestiae. Placeat assumenda, minima libero obcaecati pariatur unde.
-    Perspiciatis animi doloremque commodi esse aliquid quaerat laudantium asperiores exercitationem, itaque, eos, accusamus distinctio. Consequatur repellat tenetur explicabo nulla. Ad rem exercitationem recusandae adipisci unde corrupti dolorem nemo quod voluptatibus.
-    Odio voluptates voluptatem asperiores illum ipsam eveniet ex error suscipit velit quo voluptatum assumenda a praesentium reprehenderit quis maiores incidunt nulla hic nostrum, adipisci quos? Modi explicabo eaque corrupti pariatur!
-    Consectetur quae nihil aliquam. Laborum eveniet labore pariatur fugit? Voluptatum pariatur molestiae eveniet ab? Suscipit, possimus ut deserunt a similique voluptatibus dignissimos dolorem ex repudiandae esse quia. Saepe, est magnam.
-    Tempore culpa odit odio quos laudantium repellat architecto error nobis impedit! Corrupti, nobis dolore quae cum error beatae nam amet voluptas dolorem? Doloremque non tenetur veniam necessitatibus, deserunt quod consequuntur?
-    Animi iusto ratione labore deserunt impedit quis illum voluptatibus, ab error alias eum ipsum. Et voluptates modi nobis accusantium quam perferendis totam facere commodi rem fugiat dolor eaque, dolores qui?
-    Laborum culpa sed natus itaque perspiciatis nulla, unde at libero quo! Enim fugiat, ea suscipit itaque obcaecati consequatur sint aliquam quo vel ad omnis autem iste blanditiis quaerat nostrum dolore!
-    Quam ullam consequatur, inventore autem ad nihil debitis, saepe possimus magni et fuga rerum itaque ut quod! Illum quo numquam quia iste consectetur! Veritatis ipsa quo pariatur dolore, labore quis?
-    Sit, cumque magnam quo totam laudantium corporis id alias provident aspernatur placeat tenetur libero doloremque itaque porro doloribus, ab molestiae corrupti dignissimos dolores iure, illum ratione vel! Quas, vero laboriosam.
-    Quaerat explicabo cupiditate nesciunt est. Voluptas, similique dicta culpa maiores deleniti quia sunt, maxime ea dolores impedit quos saepe obcaecati sapiente consectetur excepturi laboriosam quam, facilis modi voluptatum fuga dolore.
-    Non quod voluptates a enim necessitatibus adipisci asperiores molestiae soluta facere. Non, itaque vero. Alias adipisci, itaque necessitatibus exercitationem officiis ipsum nihil cumque iste, sunt ab sint qui aut cupiditate.
-    Perspiciatis praesentium odit nesciunt aperiam dolor, laboriosam cumque veniam saepe ad voluptatem quae molestias veritatis maiores minima, minus mollitia! Sed laborum ex mollitia esse sunt deleniti nemo? Quod, eligendi perspiciatis.
-    Similique tenetur eaque quia praesentium eum voluptas rerum quasi quidem, illo animi laboriosam vel nulla adipisci ipsum, dolore nam maxime ipsa natus. Ut quis fuga vel fugiat inventore impedit quod?
-    Recusandae rerum quaerat fugit dolorem ipsum deserunt accusantium, illo, animi mollitia modi, unde sed esse fuga. Vitae quos ipsa rerum odit eaque velit quam iusto cupiditate consectetur atque. Nisi, voluptates.
-    Ea quae eius error. Qui assumenda provident voluptates perspiciatis enim doloribus pariatur sint atque nemo quibusdam nulla inventore omnis accusantium iste corrupti dolor, exercitationem eveniet nisi! Velit cum consectetur saepe.
-    Corporis maxime temporibus quis eaque aliquid, a nulla optio necessitatibus qui, saepe iure perspiciatis, incidunt nihil laudantium illo provident ab dolor magni nisi odit cupiditate fugit quibusdam unde? Sit, id!
-    Hic pariatur aliquid commodi illo temporibus ratione provident sequi eligendi tenetur. Assumenda, odit eum maiores inventore cum eligendi consequuntur debitis. Placeat voluptate dignissimos eligendi excepturi fugit quo rem molestiae quas!
-    Inventore esse, non quibusdam modi perferendis assumenda labore nostrum repudiandae. Voluptate atque laudantium itaque enim unde facilis possimus error consequatur, dolorum doloremque eveniet velit, natus rerum aperiam dicta ad ipsum.
-    Non porro quas sint aliquam tenetur. Pariatur, atque consectetur impedit error expedita dicta non dolorem laudantium, officiis incidunt adipisci laborum accusamus placeat labore aperiam assumenda et vitae repellendus nulla dignissimos!
-    Accusamus libero consequuntur provident numquam optio maxime quos sapiente placeat ad excepturi, quas alias suscipit sed commodi illum obcaecati corporis quam ratione ipsam eius asperiores illo. Inventore minus ipsa dolorum!
-    Cumque neque corrupti voluptates consequatur quo aliquid dolorum exercitationem, iste eaque magni animi explicabo! Velit quae ea aliquid accusamus odio itaque natus, veritatis enim tempora nesciunt, cum deserunt eius sit.
-    Dolorem deserunt dolore optio. Quos saepe porro vel sapiente, iusto ducimus alias illum. Nostrum possimus aspernatur architecto velit. Cum deleniti repudiandae autem tempora ducimus, culpa reiciendis quae praesentium nihil fugiat.
-    Odit iste accusantium placeat quis ea, deserunt adipisci illum fugit suscipit id fuga possimus veniam consequuntur nam ratione, unde voluptatum obcaecati, ullam non ut perferendis. Eius eum asperiores architecto optio?
-    Maxime vel provident laudantium ex delectus. Unde soluta amet consequuntur dignissimos, repellat cupiditate quas corrupti culpa velit doloremque sed nihil molestiae ab voluptatum earum, fugit nobis officiis perferendis magnam illum!
-    Fugiat amet quaerat laudantium nesciunt esse mollitia, ducimus dolorem excepturi, similique recusandae commodi voluptatibus delectus dolor. Aliquid quibusdam quo consequatur itaque velit deserunt dignissimos, nihil officia quae quos. Beatae, neque.
-    Veniam nemo quasi minus recusandae aspernatur ipsam animi vero quibusdam eius repudiandae aliquid dolorum doloribus repellat in mollitia consequuntur sed voluptates hic, illum molestiae quas repellendus, nobis obcaecati quia. Deleniti?
-    Mollitia quidem modi nam! Ipsum vel eligendi ad sint amet officia tenetur perspiciatis dicta, nobis nostrum in repellendus quidem libero, omnis rem dolore. Quae, aliquid. Labore nostrum odio pariatur. Modi.
-    Laborum nam aliquam delectus harum dolorum voluptatum ratione quidem similique excepturi consequatur ducimus tenetur illum, eligendi voluptas quam omnis illo? Est at voluptatibus quos in qui provident vero nihil deserunt.
-    Excepturi illum enim recusandae in ut. Quis facere nisi modi voluptate magnam ullam ab accusantium provident? Optio nemo odit tenetur pariatur necessitatibus! Aperiam explicabo dolores, pariatur eveniet dolorem porro aspernatur.
-    Sunt eos dolorem aliquid, facere dicta ipsum, saepe molestiae perspiciatis, nostrum error explicabo quod facilis deserunt adipisci delectus placeat commodi repellendus quo atque? Voluptas aut, fuga ut quaerat velit cupiditate!
-    Labore iste laudantium magnam quas! Doloribus culpa eaque dolore. Laudantium quidem deserunt sint, cum voluptates amet ullam quod? Consequuntur ea repudiandae consectetur numquam mollitia. Et delectus blanditiis saepe dolor corrupti!
-    Amet aliquam animi ea, quidem maiores deleniti, cum odio, impedit esse magnam sapiente quisquam ipsam vel quo! Facilis in ipsa, ab, veritatis repellat assumenda hic laboriosam quidem sint aliquam eveniet.
-    Ea rem minima dignissimos, at doloremque facere? Quis impedit aut quia? Soluta, quidem! Assumenda magnam cumque possimus consequatur odit, sit, quae nulla repudiandae eius, at labore unde illo autem quo.
+    return <div className='about'>
+        <div>
+            <span>شرکت دیجیتال کاسوکا</span>
+            <p
+            >شرکت دیجیتال مارکتینگ نوآد به عنوان شرکتی پیشرو در صنعت دیجیتال مارکتینگ ایران در تلاش است تا با بهره گیری از دانش فنی روز و ارایه راهکارهای نوین بازاریابی و برندینگ، با پیشرفت کسب و کارهای داخلی نقش مهمی در شکوفایی اقتصادی ایران ایفا نماید و با تثبیت نام نوآد به عنوان تخصصی ترین برند دیجیتال مارکتینگ در ایران و گسترش نام آن در بازارهای جهانی به صادرات خدمات مبتنی بر تکنولوژی های نوین گام بردارد. نوآد پیشرفت خود در طول یک دهه فعالیت را مرهون شفافیت، انسجام و پایبندی به نتایج پیش بینی شده مشتریان خود می داند. سرمایه گذاری روی تکنولوژی های نوین، کیفیت و نوآوری، پایبندی به تعهدات، رضایتمندی و وفاداری مشتریان، نیروی انسانی متمرکز و پویا از ارزش های ذاتی نوآد می باشند.
+            <br />
+            <br />
+            - ۱۰ سال تجربه ارایه خدمات تخصصی دیجیتال مارکتینگ و 
+            راهکارهای نوین بازاریابی
+            <br />
+            - تمرکز ما در تمامی استراتژی های اجرایی معطوف به دیجیتال برندینگ و همسو کردن استراتژی های دیجیتال مارکتینگ با دیگر فعالیت های برندینگ و بازاریابی شما می باشد.
+            <br />
+            - برای دریافت آخرین اخبار، گرایش ها و رویداد های دیجیتال مارکتینگ ثبت نام کنید
+            <br />
+            <br />
+            خدمات نوآد در جهت یکپارچه سازی تمامی فعالیت های یک کسب و کار از مرحله ورود به بازار، ساخت، گسترش و ایجاد تصویری یکپاچه از برند، دیجیتال مارکتینگ، افزایش مزیت رقابتی و سهم بازار تا مراحل پس از فروش و ایجاد وفاداری در مشتریان یک برند ارایه می گردد.
+            </p>          
+        </div>
+        <img src={AboutImg} alt="about image" />
     </div>
 }
 

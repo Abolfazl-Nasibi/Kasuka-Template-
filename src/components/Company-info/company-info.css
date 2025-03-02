@@ -1,0 +1,25 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 100vw;
+    padding: 50px 100px;
+    gap: 30px;
+}
+
+.about img{
+    width: 550px;
+}
+
+div div span{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(68, 68, 68);
+}
+
+div div p{
+    color: rgb(68, 68, 68);
+    
+}
+
