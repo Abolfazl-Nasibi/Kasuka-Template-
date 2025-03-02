@@ -1,0 +1,49 @@
+header {
+    position: relative;
+    background: url('../../images/hero-bg.jpg') center center no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding: 150px 0 0 0;
+    box-sizing: border-box;
+  }
+  
+  header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 0; 
+  }
+  
+  header > * {
+    position: relative;
+  }
+  
+/* header texts */
+header div:nth-child(1){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header div:nth-child(1) span:nth-child(1){
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+header div:nth-child(1) span:nth-child(2){
+    color: rgb(255, 228, 75);
+    font-size: 56px;
+    font-weight: bold;
+}
+
+header div:nth-child(1) span:nth-child(3){
+    color: white;
+    font-size: 26px;
+}
