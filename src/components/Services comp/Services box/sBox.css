@@ -1,0 +1,42 @@
+.sbox-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    gap: 10px;
+    width: 400px;
+    margin: 10px;
+    padding: 60px 20px;
+    border: 1px solid #EBEBEB;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.sbox-main:hover{
+    transform: translateY(-10px);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid white;
+}
+
+.sbox-main .s-icon{
+    background-color: #FFC451;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.s-icon img{
+    width: 30px;
+}
+
+.sbox-main .s-title{
+    color: black ;
+    font-size: 26px;
+    font-weight: 600;
+}   
+
+.sbox-main .s-des{
+    color: #44474A;
+    font-size: 16px;
+    font-weight: 400;
+}

@@ -4,6 +4,7 @@ import Header from './components/Header/header'
 import CompanyInfo from './components/Company-info/company-info'
 import Slider from './components/Slider/slider'
 import Features from './components/Features/features';
+import Servises from './components/Services comp/services';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
        <CompanyInfo></CompanyInfo>
        <Slider></Slider>
        <Features></Features>
+       <Servises></Servises>
     </div>
   );
 }

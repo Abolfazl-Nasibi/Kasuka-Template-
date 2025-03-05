@@ -12,13 +12,13 @@
     width: 550px;
 }
 
-div div span{
+.a-title{
     font-size: 26px;
     font-weight: bold;
     color: rgb(68, 68, 68);
 }
 
-div div p{
+.a-des{
     color: rgb(68, 68, 68);
     
 }
