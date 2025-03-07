@@ -4,3 +4,12 @@
     align-items: center;
 }
 
+.fbox-details span{
+    color: #444444;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fbox-details p{
+    color: #888888;
+}

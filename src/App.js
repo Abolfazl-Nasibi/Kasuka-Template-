@@ -4,17 +4,19 @@ import Header from './components/Header/header'
 import CompanyInfo from './components/Company-info/company-info'
 import Slider from './components/Slider/slider'
 import Features from './components/Features/features';
-import Servises from './components/Services comp/services';
+import Services from './components/Services comp/services';
+import Banner from './components/Banner/banner';
 
 function App() {
   return (
     <div className="App">
-       <Navbar></Navbar>
-       <Header></Header>
-       <CompanyInfo></CompanyInfo>
-       <Slider></Slider>
-       <Features></Features>
-       <Servises></Servises>
+       <Navbar />
+       <Header />
+       <CompanyInfo />
+       <Slider />
+       <Features />
+       <Services />
+       <Banner />
     </div>
   );
 }
