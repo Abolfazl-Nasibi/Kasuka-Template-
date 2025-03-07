@@ -6,6 +6,8 @@ import Slider from './components/Slider/slider'
 import Features from './components/Features/features';
 import Services from './components/Services comp/services';
 import Banner from './components/Banner/banner';
+import Portfolio from './components/Portfolio/Portfolio';
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
        <Features />
        <Services />
        <Banner />
+       <Portfolio />
     </div>
   );
 }

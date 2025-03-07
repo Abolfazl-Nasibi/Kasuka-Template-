@@ -1,0 +1,12 @@
+.catebox {
+    font-size: 16px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+    padding: 5px 10px;
+}
+
+.catebox:hover{
+    background-color: #FFC451;
+}
