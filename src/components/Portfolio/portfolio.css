@@ -38,6 +38,7 @@
     transition: all 0.5s;
     overflow: hidden;
     object-fit: cover;
+    border-radius: 5px;
 }
 
 .images div .img:hover{

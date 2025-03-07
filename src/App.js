@@ -7,6 +7,7 @@ import Features from './components/Features/features';
 import Services from './components/Services comp/services';
 import Banner from './components/Banner/banner';
 import Portfolio from './components/Portfolio/Portfolio';
+import Stats from './components/Stats/stats';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
        <Services />
        <Banner />
        <Portfolio />
+       <Stats />
     </div>
   );
 }

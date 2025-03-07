@@ -1,0 +1,26 @@
+.statsbox-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.statsbox-main span{
+    font-size: 32px;
+    font-weight: 600;
+    position: relative;
+    margin-right: 35px;
+}
+
+.statsbox-main span::before{
+    content: '';
+    position: absolute;
+    right: -35px;
+    top: 12px;
+    width: 23px ;
+    height: 23px;
+    border-radius: 50%;
+    background-color: white;
+    border: 4px solid #FFC75B;
+}
+
+

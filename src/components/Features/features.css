@@ -10,6 +10,7 @@
     width: 700px;
     height: 450px;
     object-fit: cover;
+    border-radius: 5px;
 }
 
 .features-details {
